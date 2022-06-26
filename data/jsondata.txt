@@ -1,0 +1,1 @@
+{"lstm": [{"filename": "training_data_small.csv", "max_num_of_word": 37, "vocab_size": 85872}]}
